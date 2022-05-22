@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-02 19:49-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#, c-format
+msgid "%d customers"
+msgid_plural "%d customers"
+msgstr[0] "%d заказчику"
+msgstr[1] "%d заказчикам"
+msgstr[2] "%d заказчикам"
+
+msgid "Access prohibited"
+msgstr "Нет доступа"
+
+msgid "Automatic message"
+msgstr ""
+
+msgid "Login contains illegal characters"
+msgstr "Логин должен состоять из английских букв и цифр"
+
+msgid "Login must be at least 8 characters"
+msgstr "Логин должен быть 8 и более символов"
+
+msgid "Login must contain alphabet characters"
+msgstr "Логин должен содержать английские буквы"
+
+msgid "SQL syntax error"
+msgstr "Ошибка БД"
+
+msgid "Sent by"
+msgstr "Отправлено"
+
+msgid "You need to enter phone number in user profile"
+msgstr "Нужно ввести телефон в профиле"
+
+msgid "already exists"
+msgstr "уже существует"
+
+msgid "can't close archive"
+msgstr "не удалось закрыть архив"
+
+msgid "can't create archive"
+msgstr "не удалось создать архив"
+
+msgid "case"
+msgstr "случай"
+
+msgid "case closed"
+msgstr ""
+
+msgid "category not found"
+msgstr ""
+
+msgid "checklist not found"
+msgstr "checklist не найден"
+
+msgid "cost not found"
+msgstr "не указана стоимость"
+
+msgid "db is not initialized"
+msgstr "БД не инициализирована"
+
+msgid "email already exists"
+msgstr ""
+
+msgid "email is empty"
+msgstr "не указан email"
+
+msgid "error deleting event"
+msgstr "неудалось удалить событие"
+
+msgid "exceeds allowed size"
+msgstr ""
+
+msgid "fail to insert to db"
+msgstr "не удалось добавить запись в БД"
+
+msgid "file size"
+msgstr ""
+
+msgid "friendship status can't be changed"
+msgstr ""
+
+msgid "gift not found"
+msgstr "подарок не найден"
+
+msgid "helpdesk ticket not found"
+msgstr "тикет не найден"
+
+msgid "incorrect confirmation code"
+msgstr "некорректный код"
+
+msgid "incorrect image file"
+msgstr "некорректное имя фаила"
+
+msgid "login"
+msgstr "логин"
+
+msgid "mandatory parameter missed"
+msgstr "не указан обязательный параметер"
+
+msgid "move case to the Close_Pending state due to long waiting period"
+msgstr ""
+
+msgid "no active avatar found"
+msgstr ""
+
+msgid "number uploaded images must be 1"
+msgstr ""
+
+msgid "opened"
+msgstr "открыт"
+
+msgid "parameters incorrect"
+msgstr "некорректный параметер"
+
+msgid "phone not registered"
+msgstr "телефон не зарегистрирован"
+
+msgid "phone number is incorrect"
+msgstr "некорректный номер телефона"
+
+msgid "please try again"
+msgstr "попробуйте еще раз"
+
+msgid "re-login required"
+msgstr "требуется войти на сайт"
+
+msgid "requested friendship status is unknown"
+msgstr ""
+
+msgid "service credentials not found"
+msgstr ""
+
+msgid "session not found"
+msgstr ""
+
+msgid "sms sending error"
+msgstr ""
+
+msgid "there was created more token than allowed"
+msgstr "было создано слишком много токенов"
+
+msgid "title not found"
+msgstr ""
+
+msgid "token expired"
+msgstr ""
+
+msgid "token not found"
+msgstr "токен не найден"
+
+msgid "try to upload as pdf"
+msgstr "попробуйте загрузить как pdf"
+
+msgid "unknown file type"
+msgstr "неизвстный тип фаила"
+
+msgid "updated"
+msgstr "изменено"
+
+msgid "user id not found"
+msgstr ""
+
+msgid "user not found"
+msgstr "пользователь не найден"
+
+msgid "wrong format"
+msgstr ""
+
+msgid "you are already subscribed"
+msgstr ""
+
+msgid "you are not authorized"
+msgstr "у Вас недостаточно прав"
